@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
 
-InfyOm Laravel Generator
+Raskul Laravel Generator
 ==========================
+inspired from infyom laravel generator with less bugs and better documentation
 
 [![Total Downloads](https://poser.pugx.org/infyomlabs/laravel-generator/downloads)](https://packagist.org/packages/infyomlabs/laravel-generator)
 [![Monthly Downloads](https://poser.pugx.org/infyomlabs/laravel-generator/d/monthly)](https://packagist.org/packages/infyomlabs/laravel-generator)
