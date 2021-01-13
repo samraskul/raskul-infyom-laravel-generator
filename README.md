@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
 
-Raskul Laravel Generator
+Raskul Infyom Laravel Generator
 ==========================
 inspired from infyom laravel generator with less bugs and better documentation
 
